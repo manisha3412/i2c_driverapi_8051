@@ -1,5 +1,4 @@
-# 🔢 8051-Based 3-Digit Persistent Counter  
-### with I²C EEPROM & 7-Segment Multiplexed Display
+#  8051-Based 3-Digit Persistent Counter with I²C EEPROM & 7-Segment Multiplexed Display
 
 This project showcases a **3-digit decimal counter (000–999)** built around the **8051 microcontroller** family, featuring **non-volatile storage** using an external **I²C EEPROM (24C02)** and real-time display on **multiplexed 7-segment displays**. A single **push-button input** increments the counter, which is stored and restored across power cycles.
 
