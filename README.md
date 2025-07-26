@@ -1,4 +1,3 @@
-# i2c_driverapi_8051
 # 🔢 8051-Based 3-Digit Persistent Counter  
 ### with I²C EEPROM & 7-Segment Multiplexed Display
 
